@@ -1,0 +1,3 @@
+C:/Developer/git/quinszouls/ketzalcoin/cmake-build-debug/CMakeFiles/Ketzalcoin.dir
+C:/Developer/git/quinszouls/ketzalcoin/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Developer/git/quinszouls/ketzalcoin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
